@@ -1,0 +1,1 @@
+{"name":"Local: tiento","url":"c:\\Users\\phucl\\OneDrive\\Desktop\\C++\\tiento.cpp","tests":[{"id":1684153749540,"input":"2\n7\n- + 2 * 3 1 9\n7\n- + 8 * 7 5 9","output":"-4\n34"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\phucl\\OneDrive\\Desktop\\C++\\tiento.cpp","group":"local","local":true}

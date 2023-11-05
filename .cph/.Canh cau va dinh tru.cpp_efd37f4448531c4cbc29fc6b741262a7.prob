@@ -1,0 +1,1 @@
+{"name":"Local: Canh cau va dinh tru","url":"c:\\Users\\phucl\\OneDrive\\Desktop\\C++\\Canh cau va dinh tru.cpp","tests":[{"id":1684146966703,"input":"6 7\n1 2\n1 3\n1 4\n2 3\n4 5 \n4 6\n5 6","output":"2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\phucl\\OneDrive\\Desktop\\C++\\Canh cau va dinh tru.cpp","group":"local","local":true}
